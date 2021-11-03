@@ -1,0 +1,10 @@
+
+[server]
+	service_name="api"
+	port = 10000
+
+[log]
+	level="debug"
+	logpath="logs"
+	rotate="hour"
+
